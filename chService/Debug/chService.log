@@ -1,0 +1,16 @@
+﻿生成启动时间为 2020/3/3 22:09:56。
+     1>项目“D:\works\chhworks\chService\chService.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\chService.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt chService.cpp
+         chService.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\works\chhworks\Debug\chService.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"D:\works\chhworks\Debug\chService.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\works\chhworks\Debug\chService.lib" /MACHINE:X86 Debug\chService.res
+         Debug\chService.obj
+         Debug\Service.obj
+         Debug\stdafx.obj
+         chService.vcxproj -> D:\works\chhworks\Debug\chService.exe
+     1>已完成生成项目“D:\works\chhworks\chService\chService.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.25
